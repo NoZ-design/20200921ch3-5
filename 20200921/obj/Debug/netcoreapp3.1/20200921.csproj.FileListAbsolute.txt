@@ -1,0 +1,13 @@
+C:\Users\linyuxuan\Desktop\20200921\20200921\bin\Debug\netcoreapp3.1\20200921.exe
+C:\Users\linyuxuan\Desktop\20200921\20200921\bin\Debug\netcoreapp3.1\20200921.deps.json
+C:\Users\linyuxuan\Desktop\20200921\20200921\bin\Debug\netcoreapp3.1\20200921.runtimeconfig.json
+C:\Users\linyuxuan\Desktop\20200921\20200921\bin\Debug\netcoreapp3.1\20200921.runtimeconfig.dev.json
+C:\Users\linyuxuan\Desktop\20200921\20200921\bin\Debug\netcoreapp3.1\20200921.dll
+C:\Users\linyuxuan\Desktop\20200921\20200921\bin\Debug\netcoreapp3.1\20200921.pdb
+C:\Users\linyuxuan\Desktop\20200921\20200921\obj\Debug\netcoreapp3.1\20200921.csprojAssemblyReference.cache
+C:\Users\linyuxuan\Desktop\20200921\20200921\obj\Debug\netcoreapp3.1\20200921.AssemblyInfoInputs.cache
+C:\Users\linyuxuan\Desktop\20200921\20200921\obj\Debug\netcoreapp3.1\20200921.AssemblyInfo.cs
+C:\Users\linyuxuan\Desktop\20200921\20200921\obj\Debug\netcoreapp3.1\20200921.csproj.CoreCompileInputs.cache
+C:\Users\linyuxuan\Desktop\20200921\20200921\obj\Debug\netcoreapp3.1\20200921.dll
+C:\Users\linyuxuan\Desktop\20200921\20200921\obj\Debug\netcoreapp3.1\20200921.pdb
+C:\Users\linyuxuan\Desktop\20200921\20200921\obj\Debug\netcoreapp3.1\20200921.genruntimeconfig.cache
