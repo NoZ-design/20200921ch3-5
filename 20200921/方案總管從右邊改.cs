@@ -6,7 +6,8 @@ namespace _20200921
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to C# Programing!");
+            string person = "Paul";
+            Console.WriteLine($"Welcom to C# Programming!,{person}");
         }
     }
 }
